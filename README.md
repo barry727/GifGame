@@ -7,4 +7,4 @@ Gimme Giphy is dynamic web application that populates with the GIFs of your choi
 ### Technologies Used: 
 HTML, CSS, Bootstrap, JavaScript, jQuery, AJAX, RESTful APIs
 
-<img src=“./assets/images/readme”>
+<img src="./assets/images/readme.png" >
